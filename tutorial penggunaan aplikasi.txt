@@ -1,0 +1,27 @@
+################################COPY RIGHT################################
+# License >                                                              #
+#           https://github.com/MNovan/perpustakaan/blob/main/LICENSE     #
+#                                                                        #
+################################COPY RIGHT################################
+
+
+						DARI PYTHON
+						
+1. Buka python
+2. ketik "cd (lokasi file)" lalu tekan enter
+3. ketik "py run.py" lalu tekan enter
+4. Aplikasi akan berjalan
+
+
+
+
+
+						DARI VS CODE
+						
+1. Buka VS CODE / buka file run.py dengan VS CODE
+2. Lalu jalankan aplikasi dari VS CODE
+
+
+
+
+
