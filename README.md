@@ -3,8 +3,6 @@
   </p>
 <p align="center">
   <b>👉 Follow me here 💬</b><br>  
-  <a href="https://www.instagram.com/nov.xnr/">Instagram</a> |
-  <a href="https://discord.gg/v4GS8HyX6Z">Discord</a> |
   <a href="https://github.com/MNovan">Github</a><br><br>
   </p>
 
@@ -31,13 +29,4 @@ yang ada di perpustakaan, serta arsip tentang kegiatan di perpustakaan.
 📚 Prodi: SISTEM INFORMASI (S1)
 📚 Kelas: 19.1A.02
 📚 Kelompok: 9
-----------------
-
-📌 Nama Anggota Kelompok  
->    Muhammad Novan Ramadhan 
->    Muhammad Rafi Naufal
->    Nabilla Dian Azizah Widodo
->    Imron Adi Prasetyo
->    Jihan Nur Aini
-
 ```
